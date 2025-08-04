@@ -1,2 +1,2 @@
 # AIRFLOW_PORTFOLIO
-Aqui vou colocar em prática no de airflow
+Aqui vou colocar em prática airflow
